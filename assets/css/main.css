@@ -161,6 +161,8 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
+  background-image: url('assets/img/gokul.JPG');
+
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
 
